@@ -1,4 +1,4 @@
-![logo](https://contentstatic.techgig.com/photo/77317674/top-5-github-repositories-that-every-java-developer-must-bookmark.jpg?142209)
+![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Aviraj Sawant</h1>
 <h3 align="center">A passionate JAVA-Backend developer from India</h3>
 
